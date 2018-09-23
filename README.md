@@ -1,2 +1,2 @@
 # Maruti-Swift-Vs-Tata-Nano
-Image Classification between Maruti Swift and Tata Nano car. Deep Learning model using Keras. 
+Image Classification between Maruti Swift and Tata Nano car. Deep Learning model using Keras.It is a Convolutional Neural Network Model having Two layer of CNN and two layer of ANN with 128 neuron or node in each hidden layer.As the dataset had less no of Images So, the concept of Image Augmentation was utilized to extract more info from the present images.Place the dataset and code file in the same directory level.For more info refer the code.You can get the dataset of this problem by the link given https://drive.google.com/open?id=1mavaN9y64vx0uDqX5O7-Bm1gwDNGDfQV
